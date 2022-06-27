@@ -5,7 +5,7 @@
 
 header {
     display: flex;
-    padding: 10px;
+    padding: 8px;
     justify-content: space-around;
     background-color: rgb(235, 175, 135);
 }
